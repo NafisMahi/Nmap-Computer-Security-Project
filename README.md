@@ -42,9 +42,9 @@ Nmap's scripting engine allows users to run custom scripts to automate tasks or 
 - [This video](https://www.youtube.com/watch?v=Vbl_mj5z6U8) will come handy for the beginners
 
 ## In Collaboration With
-<b>Nafis Karim</b><br>
-ID: 1805027 <br>
-[Profile](https://github.com/NafisMahi)
+<b>Mamun Munshi </b><br>
+ID: 1805028 <br>
+[Profile]([https://github.com/NafisMahi](https://github.com/Mamun097))
 
 ## Supervisor
 <b>Saem Hasan</b><br>
